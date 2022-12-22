@@ -1,0 +1,1 @@
+alert("You are welcome to level one. All the best.")
